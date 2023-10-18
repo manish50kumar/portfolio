@@ -33,7 +33,7 @@ function NavBar() {
     return (
         <div className="flex justify-between items-center w-full px-4 h-20 text-white bg-black fixed">
             <div>
-                <h1 className="text-5xl ml-2">Manish </h1>
+                <h1 className="text-5xl ml-2">Manish Kumar</h1>
             </div>
             <ul className="hidden md:flex ">
                 {
